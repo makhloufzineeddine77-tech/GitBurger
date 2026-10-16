@@ -1,2 +1,13 @@
 # GitBurger
-TP Git et GitHub méthodologie de travail
+
+Bienvenue chez **GitBurger** !
+
+Découvrez notre recette de hamburger maison.
+
+## Notre recette
+
+- Pain burger
+- Steak
+- Salade
+- Tomate
+- Fromage
